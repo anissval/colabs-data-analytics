@@ -1,2 +1,2 @@
 # colabs-data-analytics-
-data analytics collars
+data analytics colabs
